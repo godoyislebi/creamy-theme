@@ -1,0 +1,62 @@
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+ 	color:#f4f0bb;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #f4f0bb ; 
+}
+
+.navbar-default{
+	margin-bottom: 0;
+	border:0;
+	background-color: #da2c38; 
+}
+
+.banner{
+	background:url(../img/creamy.jpg);
+	background-position: center;
+}
+
+.fondo{
+	background-color: rgba(7, 7, 7, 0.4);
+	opacity: 0,5;
+	filter: alpha(opacity=);
+	padding: 150px 0;
+}
+
+.text-crema{
+	color:#f4f0bb;
+}
+
+.text-rojo{
+	color: #da2c38; 
+}
+
+.crema{
+	background-color: #f4f0bb;
+	padding: 80px 0; 
+}
+
+.rojo{
+	background-color:#da2c38;
+	padding: 80px 0;
+}
+
+.font{
+	font-family: "Merriweather";
+}
+
+.icon{
+	font-size: 60px;
+}
+
+footer{
+	background-color: #da2c38;
+	padding: 30px 0;
+}
+
+
+
+
+
+
